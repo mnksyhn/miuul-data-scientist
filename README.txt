@@ -54,3 +54,4 @@ Data Scientist
 
 🔗 GitHub: https://github.com/mnksyhn
 🔗 LinkedIn: https://linkedin.com/in/menekse-ayhan-b9b79617a
+
