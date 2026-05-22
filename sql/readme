@@ -1,0 +1,18 @@
+SQL Query Portfolio & Database Management
+Bu proje; ilişkisel veri tabanları (RDBMS) üzerinde karmaşık veri analizleri gerçekleştirmek, veri manipülasyonu yapmak ve veri tabanı mimarisi tasarlamak amacıyla hazırlanmış kapsamlı bir SQL (Structured Query Language) kod deposudur.
+
+Proje; ham verilerden anlamlı iş zekası (BI) raporları üretmek için kullanılan temel sorgulardan gelişmiş analitik fonksiyonlara kadar geniş bir senaryo havuzunu kapsar.
+
+🚀 Özellikler & Sorgu Kapsamı
+DML (Data Manipulation Language): SELECT, INSERT, UPDATE, DELETE işlemleriyle dinamik veri yönetimi.
+
+Gelişmiş Birleştirmeler (Joins): INNER JOIN, LEFT/RIGHT JOIN, FULL OUTER JOIN ve SELF JOIN ile çoklu tablo ilişkileri.
+
+Veri Agregasyonu: GROUP BY, HAVING ve filtreleme kombinasyonları ile özet rapor üretimi.
+
+Alt Sorgular (Subqueries) & CTEs: WITH ifadeleri (Common Table Expressions) kullanarak okunabilir, optimize ve hiyerarşik sorgu mimarileri.
+
+Pencere Fonksiyonları (Window Functions): ROW_NUMBER(), RANK(), DENSE_RANK(), LEAD/LAG ve kümülatif toplamlar ile analitik veri modelleme.
+
+Veri Tabanı Nesneleri: Saklı yordamlar (Stored Procedures), tetikleyiciler (Triggers), görünümler (Views) ve kullanıcı tanımlı fonksiyonlar (UDFs).
+
