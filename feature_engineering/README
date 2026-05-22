@@ -1,0 +1,25 @@
+Feature Engineering Toolkit
+Bu proje; makine öğrenmesi modellerinin performansını artırmak, ham verileri daha anlamlı girdilere dönüştürmek ve veri kalitesini optimize etmek amacıyla geliştirilmiş kapsamlı bir Özellik Mühendisliği (Feature Engineering) kütüphanesidir.
+
+Veri ön işleme (data preprocessing), aykırı değer yönetimi, eksik veri analizi ve özellik türetme süreçlerini standartlaştırmak ve otomatize etmek için tasarlanmıştır.
+
+🚀 Özellikler
+Outlier (Aykırı Değer) Yönetimi: IQR (Interquartile Range) yöntemi ile dinamik eşik değer belirleme, aykırı değerleri tespit etme ve baskılama (winsorization).
+
+Missing Values (Eksik Veri) Analizi: Eksik verilerin oran analizi, mod/medyan/ortalama ile doldurulma veya gelişmiş tahmine dayalı (KNN, MICE) atama işlemleri.
+
+Encoding (Değişken Dönüştürme): Label encoding, One-Hot encoding ve kategorik değişkenler için nadir sınıfların analizi (Rare Encoding).
+
+Feature Scaling (Özellik Ölçeklendirme): Standartlaştırma (StandardScaler), normalleştirme (MinMaxScaler) ve kararlı ölçeklendirme (RobustScaler).
+
+Feature Extraction (Özellik Türetme): Tarih, metin ve sayısal değişkenlerden doğrusal olmayan yeni türetilmiş değişkenlerin (Interactions, Date-features vb.) üretilmesi.
+
+🛠️ Kurulum
+Gereksinimler
+Python 3.7+
+
+pandas >= 1.3.0
+
+numpy >= 1.20.0
+
+scikit-learn >= 1.0.0
