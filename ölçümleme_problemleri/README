@@ -1,0 +1,21 @@
+Measurement Problem Solver
+Bu proje, veri analitiği ve ürün yönetiminde sıkça karşılaşılan Measurement Problem (Ölçüm Problemi) konularını (Kullanıcı skorlama, ürün sıralama, A/B testleri ve veri manipülasyonu) çözmek amacıyla geliştirilmiş bir kütüphanedir.
+
+Kullanıcı yorumlarının ağırlıklandırılması, sosyal kanıtlara dayalı sıralamalar (Rating Products & Sorting Products) gibi dinamik metriklerin doğru hesaplanmasını sağlar.
+
+🚀 Özellikler
+Time-Based Weighted Average: Güncel yorum ve etkileşimlere daha yüksek ağırlık vererek zaman odaklı dinamik skorlama.
+
+User-Based Weighted Average: Kullanıcı kalitesine (örn. sadık müşteri, uzman yorumcu) göre ağırlıklı puan hesaplama.
+
+Wilson Lower Bound Score: Düşük veri setlerinde bile güvenilir ürün sıralama algoritması.
+
+Bayesian Average Rating: Dağılım tabanlı, manipülasyona karşı korumalı sıralama modeli.
+
+🛠️ Kurulum
+Gereksinimler
+Python 3.8+
+
+pandas >= 1.3.0
+
+scipy >= 1.7.0
