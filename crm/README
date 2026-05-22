@@ -1,0 +1,30 @@
+📊 CRM Analytics Project
+
+Bu repository, Miuul Data Science Bootcamp kapsamında gerçekleştirilen CRM Analytics çalışmalarını ve alıştırmalarını içermektedir.
+Projelerde müşteri davranışlarını analiz etmek, segmentasyon yapmak ve iş kararlarını destekleyecek içgörüler üretmek hedeflenmiştir.
+
+🎯 Proje Kapsamı
+
+Bu çalışma kapsamında aşağıdaki konular ele alınmıştır:
+
+📌 Veri ön işleme 
+
+📌 RFM Analizi (Recency, Frequency, Monetary)
+
+📌 Müşteri Segmentasyonu
+
+📌 Online & Offline müşteri davranışlarının analizi
+
+📌 Müşteri Yaşam Boyu Değeri (CLTV) Analizi
+
+
+🛠️ Kullanılan Teknolojiler
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib / Seaborn
+
