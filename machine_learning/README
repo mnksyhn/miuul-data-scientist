@@ -1,0 +1,35 @@
+Machine Learning End-to-End Pipeline
+Bu proje; veri setlerinin yüklenmesinden başlayarak özellik mühendisliği, model eğitimi, hiperparametre optimizasyonu ve model değerlendirme aşamalarını kapsayan, uçtan uca (end-to-end) yapılandırılmış bir Makine Öğrenmesi (Machine Learning) projesidir.
+
+Proje, hem regresyon hem de sınıflandırma problemlerini çözebilecek modüler ve ölçeklenebilir bir mimariye sahiptir.
+
+🚀 Özellikler
+Gelişmiş Veri Ön İşleme: Eksik gözlemlerin doldurulması, aykırı değerlerin baskılanması ve kategorik değişkenlerin kodlanması (One-Hot / Label Encoding).
+
+Özellik Mühendisliği: Alan bilgisine dayalı yeni değişken türetme ve RobustScaler / StandardScaler ile veri ölçeklendirme.
+
+Gelişmiş Algoritma Havuzu:
+
+Doğrusal Modeller: Logistic Regression, Linear Regression, Ridge, Lasso.
+
+Ağaç Tabanlı Modeller: Random Forests, Gradient Boosting Machines (GBM), XGBoost, LightGBM, CatBoost.
+
+Hiperparametre Optimizasyonu: GridSearchCV ve RandomizedSearchCV ile model performansını maksimize eden en iyi parametre kombinasyonlarının seçimi.
+
+Çapraz Doğrulama (Cross-Validation): Aşırı öğrenmeyi (overfitting) engellemek adına K-Fold Cross-Validation entegrasyonu.
+
+🛠️ Kurulum
+Gereksinimler
+Python 3.7+
+
+numpy >= 1.22.0
+
+pandas >= 1.4.0
+
+scikit-learn >= 1.1.0
+
+xgboost >= 1.6.0
+
+lightgbm >= 3.3.0
+
+catboost >= 1.0.0
